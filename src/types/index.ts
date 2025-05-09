@@ -84,7 +84,6 @@ export interface GetAllOrderParams {
   updatedAt: string;
 }
 
-
 export type ErrorResponse = {
   message: string;
 };
